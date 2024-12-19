@@ -10,14 +10,14 @@
 // +------------------------------------------------------------------------+
 
 // MySQL Database User
-define("DB_USERNAME", "mobie4u_modgames");
+define("DB_USERNAME", "");
 // MySQL Database Password
-define("DB_PASSWORD", "asd121993asdh");
+define("DB_PASSWORD", "");
 // MySQL Hostname
 define("DB_HOST", "localhost");
 // MySQL Database Name
-define("DB_NAME", "mobie4u_modgame");
+define("DB_NAME", "");
 
 // Site URL
-$site_url = "https://mobiles4g.com/modpoko/"; // e.g (http://example.com)
+$site_url = ""; // e.g (http://example.com)
 ?>
